@@ -1,0 +1,15 @@
+body{
+    background-color:lightgreen;
+    color: black;
+}
+
+#timer{
+    float: right;
+    font-weight: 900;
+    padding-right: 50px;
+}
+
+#score{
+    font-weight: 900;
+    padding-left: 30px;
+}
